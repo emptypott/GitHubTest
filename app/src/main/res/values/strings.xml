@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubApiTest</string>
+    <string name="title_activity_link">TitleActivityLink</string>
+</resources>
